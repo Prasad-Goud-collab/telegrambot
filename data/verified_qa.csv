@@ -1,0 +1,6 @@
+question,answer,category,timestamp,answered_by
+What is the issue in production level?,There are some bugs in the server.,Production,2024-01-01 10:00:00,dev2
+How do I deploy to production?,Use the CI/CD pipeline via GitHub Actions.,DevOps,2024-01-01 11:00:00,dev3
+How do I rollback a deployment?,Run git revert and redeploy via CI/CD pipeline.,DevOps,2026-05-22 09:22:15,dev5
+What is ur name?,My name is prasad,Auto-Detected,2026-05-22 17:26:13,TG安全中心
+What is the full form of AP?,Andhra pradesh,Auto-Detected,2026-05-22 17:43:01,Jyothi

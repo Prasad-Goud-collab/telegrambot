@@ -1,0 +1,56 @@
+message_id,username,message,timestamp,is_question,is_answered
+1,dev1,What is the issue in production level?,2024-01-01 10:00:00,True,True
+2,dev2,There are some bugs in the server.,2024-01-01 10:01:00,False,False
+3,dev1,What is the issue in production level?,2026-05-22 09:11:42,True,False
+4,dev2,There are some bugs in the server.,2026-05-22 09:11:42,False,True
+5,dev3,How do I deploy to production?,2026-05-22 09:11:42,True,False
+6,dev4,Use the CI/CD pipeline via GitHub Actions.,2026-05-22 09:11:42,False,False
+7,dev1,Good morning everyone!,2026-05-22 09:22:07,False,False
+8,dev2,What is the issue in production level?,2026-05-22 09:22:09,True,False
+9,dev3,may i know what is the issue in the production level?,2026-05-22 09:22:11,True,False
+10,dev4,What is the best pizza topping?,2026-05-22 09:22:13,True,False
+11,dev6,how can i rollback my deployment?,2026-05-22 09:22:17,True,False
+12,dev1,good morning,2026-05-22 09:25:59,False,False
+13,dev1,"""What is the prod issue?",2026-05-22 09:26:07,True,False
+14,dev2,the issue realated to some server we will fix it late,2026-05-22 09:26:55,False,False
+15,dev3,what is the prod issue?,2026-05-22 09:27:26,True,False
+16,dev1,hii,2026-05-22 09:30:46,False,False
+17,dev1,what is the issue in the prod?,2026-05-22 09:31:04,True,False
+18,dev2,the iissue is with some bugs,2026-05-22 09:31:26,False,False
+19,dev3,may i know what is the issue with prod?,2026-05-22 09:31:55,True,False
+20,dev3,what is the issue in the prod?,2026-05-22 09:32:36,True,False
+21,dev1,hii,2026-05-22 09:35:51,False,False
+22,dev1,what is your name?,2026-05-22 09:36:16,True,False
+23,dev2,im prasad,2026-05-22 09:36:30,False,False
+24,dev3,what is your name?,2026-05-22 09:36:49,True,False
+25,dev3,What is the issue in production level?,2026-05-22 09:37:48,True,False
+26,dev3,How do I deploy to production?,2026-05-22 09:38:13,True,False
+27,testuser,What is the issue in production level?,2026-05-22 16:30:00,True,False
+28,testuser,Good morning everyone!,2026-05-22 16:30:01,False,False
+29,devuser,may i know what is the issue in the production level?,2026-05-22 16:30:02,True,False
+30,TG安全中心,Hii,2026-05-22 16:59:32,False,False
+31,TG安全中心,Hii,2026-05-22 16:59:32,False,False
+32,TG安全中心,Hello from komara,2026-05-22 16:59:34,False,False
+33,komara_prasad,What is the issue in production level?,2026-05-22 17:00:02,True,False
+34,TG安全中心,May I know what is the prod issue?,2026-05-22 17:01:53,True,False
+35,TG安全中心,Hii,2026-05-22 17:05:14,False,False
+36,TG安全中心,Hii,2026-05-22 17:05:37,False,False
+37,TG安全中心,May I know what is the prod issue?,2026-05-22 17:10:32,True,False
+38,TG安全中心,What is the issue in the production level?,2026-05-22 17:11:59,True,False
+39,TG安全中心,May I know what is the prod issue?,2026-05-22 17:16:00,True,False
+40,TG安全中心,What is ur name?,2026-05-22 17:26:02,True,False
+41,TG安全中心,My name is prasad,2026-05-22 17:26:13,False,False
+42,TG安全中心,What is ur name?,2026-05-22 17:26:26,True,False
+43,TG安全中心,My name is prasad gowda,2026-05-22 17:28:14,False,False
+44,TG安全中心,May i know ur name?,2026-05-22 17:28:28,True,False
+45,TG安全中心,Ur name?,2026-05-22 17:28:45,True,False
+46,TG安全中心,What is ur name?,2026-05-22 17:29:27,True,False
+47,TG安全中心,What is ur name ?,2026-05-22 17:40:49,True,False
+48,Jyothi,My name is jyothi,2026-05-22 17:41:43,False,False
+49,TG安全中心,What is ur name?,2026-05-22 17:41:52,True,False
+50,Jyothi,What is ur name,2026-05-22 17:42:10,True,False
+51,TG安全中心,What is the full form of AP?,2026-05-22 17:42:45,True,False
+52,Jyothi,Andhra pradesh,2026-05-22 17:43:01,False,False
+53,TG安全中心,What is the full form of AP?,2026-05-22 17:43:10,True,False
+54,TG安全中心,Arunchal pradesh,2026-05-22 17:44:32,False,False
+55,Jyothi,What is full form of ap,2026-05-22 17:44:49,True,False
